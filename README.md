@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 # ⚡️ Where to find me
 <p><a target="_blank" href="https://www.linkedin.com/in/peterzuo0" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a></p>
+
 
 
 # 💻 Tech Stack:
